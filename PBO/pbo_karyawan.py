@@ -35,7 +35,7 @@ karyawan1 = karyawan("Chan", 2500000, 1997, 24, "Bantul")
 # Membuat objek kedua dari kelas karyawan
 karyawan2 = karyawan("Lee know", 2000000, 1998, 23, "Sleman")
 
-# Membuat ojek ketiga dan seterusnya
+# Membuat ojek ketiga dan seterusnya hingga ke delapan
 karyawan3 = karyawan("Changbin", 2200000, 1999, 22, "Gunung kidul") 
 karyawan4 = karyawan("Hyunjin", 1900000, 2000, 21, "Kota Yogyakarta") 
 karyawan5 = karyawan("Han", 2100000, 2000, 21, "Sleman") 
