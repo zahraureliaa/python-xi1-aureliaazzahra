@@ -51,4 +51,5 @@ karyawan5.tampilkan_lengkap()
 karyawan6.tampilkan_lengkap()
 karyawan7.tampilkan_lengkap()
 karyawan8.tampilkan_lengkap()
+
 print("Total karyawan :", karyawan.jumlah_karyawan)
